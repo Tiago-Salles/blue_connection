@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:flutter_bluetooth_serial/flutter_bluetooth_serial.dart';
-import 'package:rxdart/subjects.dart';
+import 'package:rxdart/rxdart.dart';
 
 void main() {
   runApp(const MyApp());
